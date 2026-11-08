@@ -1,3 +1,5 @@
+<img src="portrait.png" align="right" width="260" alt="Russ Gatrell, drawn entirely from font characters by img-to-txt">
+
 ### Hi, I'm Russ Gatrell 👋
 
 I'm a financial data and reconciliation analyst in Utah with 20+ years of SQL. For 13 years at Overstock.com (later Beyond, Inc.), I built the reconciliations and reporting behind a public company's books, tying cash from card processors, PayPal, marketplaces, gift cards and crypto back to individual orders.
